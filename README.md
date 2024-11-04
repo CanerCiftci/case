@@ -25,3 +25,11 @@ Metre ve süre ile ilgili değişiklikler Constants sınıfından güncellenerek
 
 Test
 JUnit ile yazılmıştır
+
+Scriptler:
+git clone https://github.com/CanerCiftci/case
+mvn clean install
+mvn spring-boot:run
+
+Testleri Çalıştırma:
+mvn test
